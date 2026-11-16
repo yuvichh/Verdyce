@@ -6,8 +6,8 @@ authors = ["Yuvraj Biswal yuvrajbiswalofficial@gmail.com"]
 description = "A time-decay threshold consensus engine for decentralized voting and governance with configurable decay models and dynamic thresholds."
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/Yuvraj-cyborg/verdyce"
-homepage = "https://github.com/Yuvraj-cyborg/verdyce"
+repository = "https://github.com/yuvichh/verdyce"
+homepage = "https://github.com/yuvichh/verdyce"
 keywords = ["consensus", "voting", "dao", "decentralized", "governance"]
 categories = ["algorithms", "data-structures", "cryptography"]
 
